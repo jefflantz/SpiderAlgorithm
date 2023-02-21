@@ -1,4 +1,4 @@
-#The Spider Algorithm
+# The Spider Algorithm
 
 This directory contains an ipython notebook contianing Python code for the Spider Algorithm. Information on how it works and references are contained inside notebook.
 
